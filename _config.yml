@@ -13,7 +13,7 @@ description: r8x @ notes
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ../images/logo.gif
+avatar: https://r8w.github.io/curve/images/logo.gif
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
