@@ -43,7 +43,7 @@ var difference = diagonalTwo - diagonalOne;
 
 Before that, let's jump to the *rows* and *columns* of our matrix.
 
-![_config.yml]({{site.baseurl}}/images/matrix.png){: .center-image}
+![]({{site.baseurl}}/images/matrix.png){: .center-image}
 
 Here, we have three rows and three columns.
 
